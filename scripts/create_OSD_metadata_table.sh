@@ -5,7 +5,7 @@ conda activate genelab-utils
 
 echo -e "OSD-id\thits\tpublicReleaseDate\tpublicReleaseDateYear\ttechnologyPlatform\ttechnologyType\tmeasurementType\tOrganismCount\tOrganism\tFactors" >> genelab_osd.txt
 
-for i in {1..2000}; do
+for i in {1..100}; do
 
     echo "OSD-$i"
     url="https://osdr.nasa.gov//genelab/data/glds/meta/$i"
