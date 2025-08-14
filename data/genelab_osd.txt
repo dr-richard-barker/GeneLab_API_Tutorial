@@ -1,0 +1,66 @@
+OSD-id	hits	publicReleaseDate	publicReleaseDateYear	technologyPlatform	technologyType	measurementType	OrganismCount	Organism	Factors
+OSD-220	1	2018-07-13	2018	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	1	Arabidopsis thaliana	Spaceflight
+OSD-782	1	2024-11-19	2024	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Ionizing Radiation     Absorbed Radiation Dose     Time of Sample Collection After Treatment
+OSD-213	1	2015-06-29	2015	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Altered Gravity
+OSD-411	1	2022-04-20	2022	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Genotype     Organism Part     Treatment
+OSD-437	1	2022-10-06	2022	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Age     Altered Gravity     Spaceflight
+OSD-519	1	2022-03-25	2022	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Genotype     Organism Part     Treatment     Time
+OSD-223	1	2019-06-27	2019	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Genotype     Organism Part     Altered Gravity
+OSD-678	1	2023-12-20	2023	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Ecotype     Treatment     Genotype
+OSD-510	1	2018-11-15	2018	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Ionizing Radiation     Time of Sample Collection After Treatment     Genotype
+OSD-518	1	2020-03-21	2020	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Genotype     Treatment
+OSD-624	1	2024-02-06	2024	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Time     Altered Gravity     Organism Part
+OSD-436	1	2021-04-01	2021	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Altered Gravity     Time
+OSD-502	1	2018-11-15	2018	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Genotype     Ionizing Radiation
+GLDS-531	1	2014-06-12	2014	Agilent	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Treatment     Time     Tissue segment
+OSD-508	1	2018-11-15	2018	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Ionizing Radiation     Time of Sample Collection After Treatment     Genotype
+OSD-498	1	2018-11-05	2018	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Time of Sample Collection after Treatment     Ionizing Radiation
+OSD-8	1			Agilent	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Altered Gravity     Magnetic Field
+OSD-251	1	2019-10-24	2019	Illumina HiSeq2500	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Altered Gravity
+OSD-44	1	2015-09-15	2015	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Genotype     Spaceflight
+OSD-7	1	2013-10-04	2013	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Organism Part
+GSE121111	1	2018-12-20	2018	Pacific Biosciences	nucleotide sequencing	genome sequencing	1	Arabidopsis thaliana	Cosmic Radiation     Genotype
+OSD-134	1	2017-05-11	2017	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Atmospheric Pressure     Organism Part
+OSD-615	1	2024-07-16	2024	Thermo Fisher Scientific	ELISA	Glycomic Profile	1	Arabidopsis thaliana	Spaceflight     Growth Time
+OSD-450	1	2021-04-03	2021	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Altered Gravity     Time
+OSD-434	1	2021-04-01	2021	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Altered Gravity     Time
+OSD-282	1	2010-01-20	2010	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Treatment
+OSD-520	1	2021-01-31	2021	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	1	Arabidopsis thaliana	Generation     Ionizing Radiation
+OSD-38	1			LTQ-Orbitrap Velos Pro     Illumina	mass spectrometry     RNA Sequencing (RNA-Seq)	protein expression profiling     transcription profiling	1	Arabidopsis thaliana	Spaceflight     Sample Preservation Method
+OSD-296	1	2009-11-30	2009	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Genotype     Treatment     Light     Time
+OSD-144	1	2014-08-23	2014	Nimblegen	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Cell cycle phase     Microgravity Simulation
+GLDS-37	1	2015-11-01	2015	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Ecotype
+OSD-658	1	2023-12-12	2023	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Ionizing Radiation     Absorbed Radiation Dose
+OSD-406	1	2021-04-01	2021	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spacecraft     Altered Gravity     Ecotype     Genotype
+OSD-346	1	2020-11-24	2020	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Genotype     Spaceflight     Altered Gravity     Treatment
+OSD-313	1	2020-10-22	2020	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Genotype     Treatment
+OSD-428	1	2021-04-01	2021	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Altered Gravity     Time
+OSD-45	1				DNA microarray	transcription profiling	1	Arabidopsis thaliana	Microgravity Simulation     Time
+OSD-136	1	2017-05-11	2017	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Atmospheric Pressure
+OSD-217	1	2019-03-20	2019	Illumina     Illumina	Whole Genome Bisulfite Sequencing     RNA Sequencing (RNA-Seq)	DNA methylation profiling     transcription profiling	1	Arabidopsis thaliana	Spaceflight     Organism Part
+OSD-46	1	2014-09-18	2014	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Ionizing Radiation     Exposure Duration     Time of Sample Collection After Treatment     Genotype     Age     Absorbed Radiation Dose
+OSD-208	1	2018-10-29	2018	Illumina     Affymetrix	RNA Sequencing (RNA-Seq)     DNA microarray	transcription profiling     transcription profiling	1	Arabidopsis thaliana	Tissue
+OSD-476	1	2022-05-16	2022	Illumina     ImageJ	RNA Sequencing (RNA-Seq)     Image analysis	transcription profiling     Morphometric analysis	1	Arabidopsis thaliana	Treatment
+OSD-321	1	2021-01-09	2021		RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Genotype
+OSD-522	1	2024-03-04	2024	LTQ Orbitrap Velos(Thermo Scientific)     Illumina	mass spectrometry     RNA Sequencing (RNA-Seq)	protein expression profiling     transcription profiling	1	Arabidopsis thaliana	Organism Part     Spaceflight
+OSD-329	1	2006-10-30	2006		DNA microarray	transcription profiling	1	Arabidopsis thaliana	Genotype     Organism Part     Ionizing Radiation     Time of Sample Collection After Treatment
+OSD-625	1	2024-06-06	2024	Pacific Biosciences	CCS long read DNA Enzymatic Methyl Sequencing	Targeted DNA Methylation Profiling	1	Arabidopsis thaliana	Spaceflight     Genotype
+OSD-193	1	2018-03-01	2018	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Time     Genotype     Spaceflight
+OSD-565	1	2022-10-04	2022	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Treatment     Organism Part     Microgravity Simulation
+OSD-22	1	2017-09-17	2017	Agilent	DNA microarray	transcription profiling	1	Arabidopsis thaliana	soil environment exposure     Time     Genotype
+OSD-16	1			iTRAQ	mass spectrometry	protein expression profiling	1	Arabidopsis thaliana	Spaceflight     Organism Part
+OSD-314	1	2021-01-20	2021	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Altered Gravity     Light
+OSD-218	1	2018-02-24	2018	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Age     Spaceflight     Cultivar
+OSD-205	1	2018-12-01	2018	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Genotype
+OSD-147	1	2017-09-01	2017	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Genotype
+OSD-281	1	2020-03-01	2020	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Age     Genotype
+OSD-120	1	2017-06-08	2017	Illumina     CARA	RNA Sequencing (RNA-Seq)     Photography	transcription profiling     Image Analysis	1	Arabidopsis thaliana	Ecotype     Spaceflight     Treatment
+OSD-496	1	2018-11-15	2018	Illumina	ChIP-seq	protein-DNA binding site identification	1	Arabidopsis thaliana	Genotype     antibody     Ionizing Radiation     Time of Sample Collection After Treatment
+OSD-17	1	2012-03-08	2012	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Organism Part
+OSD-469	1	2022-01-05	2022	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Genotype     Light Cycle
+OSD-320	1	2014-09-18	2014	Affymetrix	DNA microarray	transcription profiling	1	Arabidopsis thaliana	Genotype     Time of sample collection after treatment     Ionizing Radiation
+OSD-427	1	2021-08-13	2021	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Spaceflight     Genotype     Organism part
+OSD-416	1	2021-08-13	2021	Illumina	Bisulfite sequencing	DNA methylation profiling	1	Arabidopsis thaliana	Spaceflight     Genotype     Organism Part
+OSD-480	1	2022-04-21	2022	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	1	Arabidopsis thaliana	Organism Part     Altered Gravity     Genotype     Spaceflight     Treatment
+OSD-121	1	2017-06-08	2017	Affymetrix     photography     Thermo Fisher Scientific	DNA microarray     Image analysis     ELISA	transcription profiling     Morphometric analysis     Glycomic Profile	1	Arabidopsis thaliana	Spaceflight
+OSD-284	1	2016-03-03	2016	Affymetrix	DNA microarray	transcription profiling	1	Oryza sativa	Spaceflight     Altered Gravity
