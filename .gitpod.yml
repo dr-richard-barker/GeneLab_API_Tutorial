@@ -1,0 +1,14 @@
+image: rocker/r-ver:4.3.1
+
+tasks:
+  - init: |
+      sudo apt-get update && sudo apt-get install -y python3-pip libtirpc-dev
+      pip3 install -r requirements.txt
+      Rscript scripts/install_packages.R
+    command: |
+      python3 scripts/create_OSD_metadata_table.py
+      streamlit run app.py
+
+ports:
+  - port: 8501
+    onOpen: open-preview
