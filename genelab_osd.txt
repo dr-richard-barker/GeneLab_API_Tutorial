@@ -1,0 +1,107 @@
+OSD-id	hits	publicReleaseDate	publicReleaseDateYear	technologyPlatform	technologyType	measurementType	OrganismCount	Organism	Factors
+OSD-1	1	11-Dec-2013	2013	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Infection
+OSD-2	1	01-Apr-2011	2011	Agilent	DNA microarray	transcription profiling	0		Ionizing Radiation;Absorbed Radiation Dose
+OSD-3	1	1-Sep-2011	2011	Affymetrix	DNA microarray	transcription profiling	0		Developmental Stage;Spaceflight
+OSD-4	1	10-Mar-2010	2010	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight
+OSD-5	1	9-Feb-06	2006	Affymetrix	DNA microarray	transcription profiling	0		Microgravity Simulation
+OSD-6	1	29-Nov-2007	2007	Affymetrix	DNA microarray	transcription profiling	0		Ionizing Radiation
+OSD-7	1	04-Oct-2013	2013	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Organism Part
+OSD-8	1	1-Jan-12	2012	Agilent	DNA microarray	transcription profiling	0		Altered Gravity;Magnetic Field
+OSD-9	1	01-Apr-2011	2011	Compugen	DNA microarray	transcription profiling	0		Ionizing Radiation
+OSD-11	1	13-Sep-2007	2007	Sidney Kimmel Cancer Center non-commercial	DNA microarray	transcription profiling	0		Spaceflight
+OSD-12	1	Jul-07-2007		Affymetrix	DNA Microarray	Transcription Profiling	0		Microgravity Simulation;generation
+OSD-13	1	21-Jun-2012	2012	Affymetrix	DNA microarray	transcription profiling	0		Treatment;Altered Gravity;Spaceflight
+OSD-14	1	29-Jul-2010	2010	Affymetrix	DNA microarray	transcription profiling	0		Microgravity Simulation
+OSD-15	1	28-Jun-2011	2011	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Microgravity Simulation
+OSD-16	1	Mar-24-2015		iTRAQ	mass spectrometry	protein expression profiling	0		Spaceflight;Organism Part
+OSD-17	1	08-Mar-2012	2012	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Organism Part
+OSD-18	1	7-Apr-2010	2010	Agilent	DNA microarray	transcription profiling	0		Microgravity Simulation
+OSD-19	1	10-Mar-2004	2004	Affymetrix	DNA microarray	transcription profiling	0		Hindlimb Unloading;Treatment
+OSD-20	1	1-Nov-2013	2013	spotted DNA-cDNA	DNA microarray	transcription profiling	0		Spaceflight
+OSD-21	1	28-Dec-2008	2008	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Hindlimb Unloading;Time;Tissue
+OSD-22	1	17-Sep-2017	2017	Agilent	DNA microarray	transcription profiling	0		soil environment exposure;Time;Genotype
+OSD-25	1	29-Oct-2015	2015	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight
+OSD-26	1	01-Dec-2012	2012	Roche	amplicon sequencing assay	metagenome profiling	0		Sample Location;Spaceflight
+OSD-27	1	1-Jul-2010	2010	Affymetrix	DNA microarray	transcription profiling	0		Duration;Sex;Temperature;Microgravity Simulation
+OSD-28	1	Jun-01-2012		Agilent	DNA microarray	transcription profiling	0		environment exposure;gravitation
+OSD-29	1	15-Oct-2010	2010	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Treatment;Altered Gravity
+OSD-30	1	13-Jun-2008	2008	Affymetrix	DNA microarray	transcription profiling	0		Microgravity Simulation
+OSD-31	1	Jul-02-2009		SCKCEN Genomic Platform	DNA microarray	transcription profiling	0		Spaceflight;Ionizing Radiation;Microgravity Simulation
+OSD-33	1	13-Sep-2012	2012	CustomArray	DNA microarray	transcription profiling	0		Spaceflight;Cage
+OSD-34	1	26-Jun-2013	2013	Affymetrix	DNA microarray	transcription profiling	0		Age;Sex;Temperature;Altered Gravity;Altered Gravity Simulator
+OSD-35	1	31-Mar-2012	2012	Affymetrix	DNA microarray	transcription profiling	0		Altered Gravity;Spaceflight
+OSD-36	1	01-Jul-2010	2010	Affymetrix	DNA microarray	transcription profiling	0		Altered Gravity;Treatment;Spaceflight;Altered Gravity Simulator
+OSD-37	1	01-Nov-2015	2015	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight;Ecotype
+OSD-38	1	1-Nov-15	2015	LTQ-Orbitrap Velos Pro	mass spectrometry	protein expression profiling	0		Spaceflight;Sample Preservation Method
+OSD-38	1	1-Nov-15	2015	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight;Sample Preservation Method
+OSD-41	1	Jun-29-2012		Agilent	DNA microarray	transcription profiling	0		gravity
+OSD-42	1	14-Oct-2011	2011	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight
+OSD-43	1	06-Sep-2012	2012	Affymetrix	DNA microarray	transcription profiling	0		Microgravity Simulation
+OSD-44	1	15-Sep-2015	2015	Affymetrix	DNA microarray	transcription profiling	0		Genotype;Spaceflight
+OSD-46	1	18-Sep-2014	2014	Affymetrix	DNA microarray	transcription profiling	0		Ionizing Radiation;Exposure Duration;Time of Sample Collection After Treatment;Genotype;Age;Absorbed Radiation Dose
+OSD-47	1	15-Dec-2015	2015	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight
+OSD-47	1	15-Dec-2015	2015	LTQ Orbitrap Velos(Thermo Scientific)	mass spectrometry	protein expression profiling	0		Spaceflight
+OSD-47	1	15-Dec-2015	2015	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	0		Spaceflight
+OSD-47	1	15-Dec-2015	2015	Pannoramic Scan (3D Histech)	Microscopy	Molecular Cellular Imaging	0		Spaceflight
+OSD-48	1	15-Dec-2015	2015	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight;Dissection Condition
+OSD-48	1	15-Dec-2015	2015	Orbitrap Fusion(Thermo Scientific)	mass spectrometry	protein expression profiling	0		Spaceflight;Dissection Condition
+OSD-48	1	15-Dec-2015	2015	pannoramic scan (3d histech)	Microscopy	Molecular Cellular Imaging	0		Spaceflight;Dissection Condition
+OSD-48	1	15-Dec-2015	2015	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	0		Spaceflight;Dissection Condition
+OSD-48	1	15-Dec-2015	2015	Illumina	Whole Transcriptome Bisulfite Sequencing	RNA methylation profiling	0		Spaceflight;Dissection Condition
+OSD-49	1	04-Feb-2016	2016	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Sample Preservation Method;Time of Sample Collection After Euthanasia;Sample Storage Time
+OSD-49	1	04-Feb-2016	2016	LTQ Orbitrap Velos(Thermo Scientific)	mass spectrometry	protein expression profiling	0		Sample Preservation Method;Time of Sample Collection After Euthanasia;Sample Storage Time
+OSD-49	1	04-Feb-2016	2016	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	0		Sample Preservation Method;Time of Sample Collection After Euthanasia;Sample Storage Time
+OSD-50	1	21-Mar-2016	2016	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight
+OSD-52	1	20-Jan-2013	2013	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight
+OSD-53	1	15-Oct-2013	2013	BD Biosciences Clontech	DNA microarray	transcription profiling	0		Spaceflight;Sex;Time
+OSD-54	1	5-Feb-14	2014	Agilent	DNA microarray	transcription profiling	0		Spaceflight;Treatment;Time
+OSD-55	1	17-Jul-2014	2014	Agilent	miRNA Microarray	transcription profiling	0		Microgravity Simulation
+OSD-56	1	17-Jul-2014	2014	Agilent	DNA microarray	transcription profiling	0		Microgravity Simulation
+OSD-57	1	21-Mar-2016	2016	GS FLX Titanium Series system	RNA Sequencing (RNA-Seq)	transcription profiling	0		Treatment
+OSD-58	1	8-Jun-2016	2016	Illumina	Nucleotide Sequencing	Deletion Pool Profiling	0		Culture Media;Spaceflight;zygosity;generation number
+OSD-59	1	12-May-2014	2014	Illumina Genome Analyzer IIx	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight
+OSD-60	1	27-Feb-2015	2015	Agilent	DNA microarray	transcription profiling	0		Hypergravity
+OSD-61	1	31-Dec-2014	2014	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Genotype
+OSD-62	1	24-Dec-2014	2014	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight;Genotype
+OSD-63	1	27-Nov-2009	2009	Affymetrix	DNA microarray	transcription profiling	0		Tissue;Spaceflight;Developmental Condition;Altered Gravity
+OSD-64	1	08-Jul-2016	2016	Illumina, PacBio	nucleotide sequencing	genome sequencing	0		Spaceflight
+OSD-65	1	07-Jul-2016	2016	Illumina	ITS	Amplicon Sequencing	0		Spaceflight
+OSD-65	1	07-Jul-2016	2016	Illumina	16S	Amplicon Sequencing	0		Spaceflight
+OSD-66	1	07-JUL-2016	2016	Life Tech	nucleotide sequencing	environmental gene survey	0		spaceflight
+OSD-67	1	08-Jul-2016	2016	Illumina	nucleotide sequencing	genome sequencing	0		Microgravity
+OSD-68	1	08-Jul-2016	2016	Illumina	nucleotide sequencing	genome sequencing	0		Spaceflight
+OSD-69	1	07-Jul-2016	2016	Illumina	nucleotide sequencing	metagenome profiling	0		Spaceflight;Treatment
+OSD-70	1	26-Jun-2013	2013	Affymetrix	DNA microarray	transcription profiling	0		Altered Gravity;Temperature;O2 Level;Altered Gravity Simulator
+OSD-71	1	01-Jan-2016	2016	Affymetrix	DNA microarray	transcription profiling	0		Ionizing Radiation;Absorbed Radiation Dose
+OSD-72	1	30-Nov-2015	2015	Roche	16S	Amplicon Sequencing	0		Ionizing Radiation;Diet;Microgravity Simulation;Spaceflight;Strain;Age at Start of Experiment
+OSD-73	1	7-May-2014	2014	Illumina	DNA microarray	transcription profiling	0		Ionizing Radiation;Absorbed Radiation Dose;Time of Sample Collection After Treatment
+OSD-74	1	10-Oct-2014	2014	Affymetrix	DNA microarray	transcription profiling	0		Ionizing Radiation;Absorbed Radiation Dose
+OSD-75	1	16-Feb-2011	2011	Filgen	miRNA Microarray	transcription profiling	0		Altered Gravity;Duration;Spaceflight
+OSD-76	1	15-Feb-2016	2016	Agilent	DNA microarray	transcription profiling	0		Microgravity Simulation
+OSD-78	1	8-Nov-2008	2008	Affymetrix	DNA microarray	transcription profiling	0		Ionizing Radiation;Treatment
+OSD-79	1	4-Apr-2013	2013	Affymetrix	DNA microarray	transcription profiling	0		Genotype;Ionizing Radiation
+OSD-80	1	30-Nov-2013	2013	Affymetrix	DNA microarray	transcription profiling	0		Ionizing Radiation;Time of Sample Collection After Treatment;Absorbed Radiation Dose
+OSD-81	1	14-Mar-2014	2014	Agilent	DNA microarray	transcription profiling	0		Strain;Atmospheric Pressure
+OSD-82	1	1-Apr-2016	2016	Roche GS FLX	16S	Amplicon Sequencing	0		Space Mission;Sample Location;Spaceflight
+OSD-83	1	15-Oct-2015	2015	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight;Tissue
+OSD-84	1	26-Oct-2016	2016	Oxford Nanopore Technologies	nucleotide sequencing	genome sequencing	0		Spaceflight
+OSD-84	1	26-Oct-2016	2016	Illumina	nucleotide sequencing	genome sequencing	0		Spaceflight
+OSD-84	1	26-Oct-2016	2016	Pacific Biosciences	nucleotide sequencing	genome sequencing	0		Spaceflight
+OSD-85	1	19-Sep-2016	2016	Illumina HiSeq 2000	RNA Sequencing (RNA-Seq)	transcription profiling	0		Hypergravity
+OSD-86	1	02-Feb-2016	2016	Illumina	DIP-Seq	DNA methylation profiling	0		Microgravity Simulation;Antibody
+OSD-87	1	16-Dec-2016	2016	Affymetrix	DNA microarray	transcription profiling	0		Spaceflight
+OSD-89	1	22-Jun-2015	2015	Illumina	DNA microarray	transcription profiling	0		Ionizing Radiation;Age
+OSD-90	1	16-Dec-2016	2016	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Microgravity Simulation;Duration
+OSD-91	1	02-Feb-2016	2016	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Microgravity Simulation
+OSD-92	1	01-Jul-2011	2011	Agilent	DNA microarray	transcription profiling	0		Ionizing Radiation;Time of Sample Collection After Treatment;absorbed radiation dose
+OSD-93	1	26-Feb-2014	2014	Agilent	DNA microarray	transcription profiling	0		strain;ionizing radiation
+OSD-95	1	15-Nov-2016	2016	Illumina	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight;Dose
+OSD-96	1	19-Oct-2016	2016	Illumina MiSeq	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight;Generation;Time of Sample Collection After Treatment
+OSD-97	1	01-Nov-2007	2007	Hitachisoft Hypergene Yeast Chip Ver. 2.0	DNA microarray	transcription profiling	0		Radiation, Ionzing
+OSD-98	1	28-Feb-2017	2017	LTQ Orbitrap Fusion (Thermo Scientific)	mass spectrometry	protein expression profiling	0		Spaceflight
+OSD-98	1	28-Feb-2017	2017	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	0		Spaceflight
+OSD-98	1	28-Feb-2017	2017	Illumina HiSeq 4000	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight
+OSD-99	1	28-Feb-2017	2017	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	0		Spaceflight
+OSD-99	1	28-Feb-2017	2017	Illumina HiSeq 4000	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight
+OSD-100	1	28-Feb-2017	2017	Illumina	Whole Genome Bisulfite Sequencing	DNA methylation profiling	0		Spaceflight
+OSD-100	1	28-Feb-2017	2017	Illumina HiSeq 4000	RNA Sequencing (RNA-Seq)	transcription profiling	0		Spaceflight
